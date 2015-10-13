@@ -1,5 +1,9 @@
 * test
 * next test
+* branch test51
+** subdir12
+*** subdir22
+test
 * 3rd test
 ** sub test
 happy times
@@ -35,6 +39,9 @@ This one fails to render properly.
 * branch test3
 * branch test4
 * branch test5
+** subdir1
+*** subdir2
+test
 * branch test6
 * branch test7
 * branch test8
