@@ -5,3 +5,23 @@
 happy times
 * 4th test with under_score
 * 5th test with =under_score= escaped
+
+This one renders properly.
+
+* this and that =branch_test=
+
+This one renders properly.
+
+* =branch_test=
+
+This one fails to render properly.
+
+* that and this =tm/branch_test=
+
+This one renders properly.
+
+* =tm/branch_test=
+
+This one fails to render properly.
+
+** this and that
