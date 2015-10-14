@@ -1,7 +1,7 @@
 * markdown reference
 
-https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
-https://help.github.com/articles/markdown-basics/
++ https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
++ https://help.github.com/articles/markdown-basics/
 
 * test
 * next test
