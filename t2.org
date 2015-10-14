@@ -1,3 +1,8 @@
+* repo links
+
++ https://gitlab.com/mtm/pandoc-practice/blob/master/t2.md
++ https://github.com/TaylorMonacelli/pandoc-practice/blob/master/t2.md
+
 * markdown reference
 
 + https://github.com/gitlabhq/gitlabhq/blob/master/doc/markdown/markdown.md
