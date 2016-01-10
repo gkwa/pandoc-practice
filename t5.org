@@ -1,0 +1,36 @@
+* Searching
++ pandoc org-mode span anchor https://goo.gl/ie28gt
++ https://github.com/jgm/pandoc/issues/756#issuecomment-65954270
+
+* Section1
+* Section2
+* Section3
+* Section4
+* Section5
+* Section6
+* Section7
+* Section8
+<<my-custom-id>>
+<<anchor>>
+
+* Section9
+* Section10
+* Section11
+* Section12
+* Section13
+#+NAME: My Target
+
+* Section14
+* Section15
+* Section16
+* Section17
++ refer to [[Section1]]
++ refer to [[#my-custom-id][Find my custom id]]
++ [[#anchor][anchor link]
++ [[file:t5.md#anchor][anchor text]]
++ [[#My Target][My Target]]
++ [[My Target]]
+
+* Section18
+* Section19
+* Section20
